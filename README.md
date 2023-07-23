@@ -26,7 +26,7 @@ Data acquisition from BH1750 with Python &amp; Thonny IDE using Raspberry Pi
    ![TS](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/f9b80cfc-569b-4b97-b878-b0b82189b639)
    -
 
-6) CSV file download from ThingSpeak
+6) CSV file downloaded from ThingSpeak
 
    ![TS-csv](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/b2bb6a55-de15-41a5-a246-fe84d9319446)
    -
