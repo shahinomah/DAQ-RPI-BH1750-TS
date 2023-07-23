@@ -13,7 +13,7 @@ Data acquisition from BH1750 with Python &amp; Thonny IDE using Raspberry Pi
    
 https://github.com/shahinomah/DAQ-RPI-BH1750-TS/blob/main/LUX-MATPLOT-CSV-THINGSPEAK-ALL.py
 
-4) Results: Matplotlib real-time plot (right), Light level value / console (bottom), ThingSpeak (left)
+4) Results: Live Matplotlib plot (right), real-time light level value / console (bottom), ThingSpeak (left)
 
 ![ALL](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/f83cf390-6635-4a30-9380-a33365e494ae)
 
