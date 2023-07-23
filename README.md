@@ -20,8 +20,7 @@ Data acquisition from BH1750 with Python &amp; Thonny IDE using Raspberry Pi
 
    ![ALL](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/f83cf390-6635-4a30-9380-a33365e494ae)
    -
-   -
-   -
+
 5) ThingSpeak interface (complete measurement for short period of time)
 
    ![TS](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/f9b80cfc-569b-4b97-b878-b0b82189b639)
