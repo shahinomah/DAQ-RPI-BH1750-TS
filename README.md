@@ -9,24 +9,27 @@ Data acquisition from BH1750 with Python &amp; Thonny IDE using Raspberry Pi
 
 ![Connection_PIN](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/17042df3-ceb6-4c94-9160-e8a2d3cf84ef)
 
-Code link:
+3) Code link:
+   
 https://github.com/shahinomah/DAQ-RPI-BH1750-TS/blob/main/LUX-MATPLOT-CSV-THINGSPEAK-ALL.py
 
-3) Results: Matplotlib real-time plot (right), Light level value / console (bottom), ThingSpeak (left)
+4) Results: Matplotlib real-time plot (right), Light level value / console (bottom), ThingSpeak (left)
 
 ![ALL](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/f83cf390-6635-4a30-9380-a33365e494ae)
 
-4) CSV file download from ThingSpeak
+5) CSV file download from ThingSpeak
 
 ![TS-csv](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/b2bb6a55-de15-41a5-a246-fe84d9319446)
 
-5) CSV file saved using Python script in Raspberry Pi
+6) CSV file saved using Python script in Raspberry Pi
 
 ![CSV](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/9bfa894c-3ab4-4c40-b3c2-b7673aca22b6)
 
-   Plotting from stored data.
+   Plott from stored data.
    
-Youtube link:
+7) Youtube link:
+   
 https://www.youtube.com/watch?v=wAwu7lCs_64
+
 
 Contact: shahinomah@gmail.com
