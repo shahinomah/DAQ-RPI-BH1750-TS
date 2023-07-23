@@ -25,7 +25,7 @@ https://github.com/shahinomah/DAQ-RPI-BH1750-TS/blob/main/LUX-MATPLOT-CSV-THINGS
 
 ![CSV](https://github.com/shahinomah/DAQ-RPI-BH1750-TS/assets/56672940/9bfa894c-3ab4-4c40-b3c2-b7673aca22b6)
 
-   Plott from stored data.
+   Plot from stored data.
    
 7) Youtube link:
    
